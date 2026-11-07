@@ -15,4 +15,4 @@ A walkthrough of the **quantmod** package, a financial modeling tool for R. The 
 
 **Tools:** R, quantmod, Yahoo Finance API, FRED
 
-📄 [Presentation (PDF)](r-quantmod-presentation/Quantmod_Presentation_Seboni.pdf) · 💻 [R Code](https://github.com/boemokseboni/boemokseboni.github.io/blob/main/r-quantmod-presentation/Quantmod_Presentation_Code_Seboni.R) · 🎥 [Demo Video](r-quantmod-presentation/Quantmod_Demo_Seboni.mp4) · 📊 [Slides (PowerPoint)](r-quantmod-presentation/Quantmod_Presentation_Seboni.pptx)
+📄 <a href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pdf" target="_blank" rel="noopener">Presentation (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/r-quantmod-presentation/Quantmod_Presentation_Code_Seboni.R" target="_blank" rel="noopener">R Code</a> · 🎥 <a href="r-quantmod-presentation/Quantmod_Demo_Seboni.mp4" target="_blank" rel="noopener">Demo Video</a> · 📊 <a href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pptx">Slides (PowerPoint)</a>
