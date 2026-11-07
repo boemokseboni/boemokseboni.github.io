@@ -34,7 +34,7 @@ Diamonds make up roughly 80% of Botswana's export earnings, and a weakening diam
 
 **Tools:** Python (pandas, scikit-learn, pdfplumber), SAS Viya, UN Comtrade API
 
-📄 <a href="botswana-export-diversification/Export_Diversification_Paper_Seboni.pdf" target="_blank" rel="noopener">Paper (PDF)</a> · 📊 <a href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pdf" target="_blank" rel="noopener">Presentation (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Export_Diversification_Pipeline_Seboni.ipynb" target="_blank" rel="noopener">Data & Modeling Pipeline</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Statistics_Botswana_Validation_Seboni.ipynb" target="_blank" rel="noopener">Forecast Validation</a>
+📄 <a href="botswana-export-diversification/Export_Diversification_Paper_Seboni.pdf" target="_blank" rel="noopener">Paper (PDF)</a> · 📊 <a href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pdf" target="_blank" rel="noopener">Presentation (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Export_Diversification_Pipeline_Seboni.ipynb" target="_blank" rel="noopener">Data & Modeling Pipeline</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Statistics_Botswana_Validation_Seboni.ipynb" target="_blank" rel="noopener">Forecast Validation</a> · 📊 <a href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pptx">Slides (PowerPoint)</a>
 
 *Code developed with AI assistance.*
 
