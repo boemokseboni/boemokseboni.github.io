@@ -6,7 +6,7 @@
 
 ### Academic
 
-#### R – Stock & Economic Data Analysis with quantmod
+#### Stock & Economic Data Analysis with quantmod
 *DSS 665 – R Statistical Programming | Fall 2026*
 
 A walkthrough of the **quantmod** package, a financial modeling tool for R. The project pulls live data from Yahoo Finance and the Federal Reserve (FRED), then explores and visualizes it:
