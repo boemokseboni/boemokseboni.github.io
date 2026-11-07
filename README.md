@@ -3,8 +3,11 @@
 **Bachelor of Science, Business Intelligence & Analytics; Machine Learning for Business Applications** - Saint Joseph's University (May 2025)
 
 ## Projects
-### R – Stock & Economic Data Analysis with quantmod
-*DSS 665 – R Programming | Fall 2026*
+
+### Academic
+
+#### R – Stock & Economic Data Analysis with quantmod
+*DSS 665 – R Statistical Programming | Fall 2026*
 
 A walkthrough of the **quantmod** package, a financial modeling tool for R. The project pulls live data from Yahoo Finance and the Federal Reserve (FRED), then explores and visualizes it:
 
@@ -16,3 +19,39 @@ A walkthrough of the **quantmod** package, a financial modeling tool for R. The 
 **Tools:** R, quantmod, Yahoo Finance API, FRED
 
 📄 <a href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pdf" target="_blank" rel="noopener">Presentation (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/r-quantmod-presentation/Quantmod_Presentation_Code_Seboni.R" target="_blank" rel="noopener">R Code</a> · 🎥 <a href="r-quantmod-presentation/Quantmod_Demo_Seboni.mp4" target="_blank" rel="noopener">Demo Video</a> · 📊 <a href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pptx">Slides (PowerPoint)</a>
+
+---
+
+#### Forecasting Botswana's Export Diversification Opportunities
+*DSS 680 – Predictive Analytics | Summer 2026*
+
+Diamonds make up roughly 80% of Botswana's export earnings, and a weakening diamond market has exposed how little the economy is diversified. This project asks which non-diamond export categories show the strongest potential for growth, and how reliably predictive models can identify them.
+
+- Collected 24 years (2000–2023) of Botswana trade data from the UN Comtrade API using Python: 98 product categories, 2,352 product-year observations
+- Engineered lag, growth, trend, volatility, and trade-position features, with a chronological train/validation split to prevent data leakage
+- Trained and compared eight models in SAS Viya: linear, stepwise, and LASSO regression, decision tree, random forest, gradient boosting, neural network, and SVM (best validation R² = 0.81)
+- Tested the forecasts against official Statistics Botswana 2024–2025 figures that the models never saw
+
+**Tools:** Python (pandas, scikit-learn, pdfplumber), SAS Viya, UN Comtrade API
+
+📄 <a href="botswana-export-diversification/Export_Diversification_Paper_Seboni.pdf" target="_blank" rel="noopener">Paper (PDF)</a> · 📊 <a href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pdf" target="_blank" rel="noopener">Presentation (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Export_Diversification_Pipeline_Seboni.ipynb" target="_blank" rel="noopener">Data & Modeling Pipeline</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Statistics_Botswana_Validation_Seboni.ipynb" target="_blank" rel="noopener">Forecast Validation</a>
+
+*Code developed with AI assistance.*
+
+---
+
+#### Beyond the 4Cs: Provenance, Production Method & Diamond Pricing
+*DSS 660 – Data Mining | Summer 2026*
+
+Is a diamond's price really just carat, cut, color, and clarity? This project tests whether a diamond's country of origin and production method (natural vs. lab-grown) still affect price once its physical quality is accounted for, a question with real consequences for diamond-dependent economies like Botswana.
+
+- Collected 187,579 diamond listings (94,448 natural, 93,131 lab-grown) across 26 variables using Python
+- Applied ANOVA, multiple linear regression, stepwise regression, principal components analysis, and logistic regression in JMP
+- Final pricing model explained 90% of price variation (R² = 0.90)
+- Found that natural and lab-grown diamonds are effectively two different markets: natural prices lean on color and cut precision, while lab-grown prices lean on clarity
+
+**Tools:** Python (requests, pandas), JMP
+
+📄 <a href="diamond-pricing-analysis/Diamond_Pricing_Report_Seboni.pdf" target="_blank" rel="noopener">Report (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/diamond-pricing-analysis/Diamond_Data_Collection_Seboni.ipynb" target="_blank" rel="noopener">Data Collection Notebook</a>
+
+*Code developed with AI assistance.*
