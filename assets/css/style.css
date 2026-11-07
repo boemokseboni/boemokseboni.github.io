@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ---------- Header: slate grey fading into powder blue ---------- */
+.page-header {
+  background-color: #5b6b7b;
+  background-image: linear-gradient(120deg, #4a5866, #7d93a8);
+}
+
+/* ---------- Page background ---------- */
+body {
+  background-color: #f2f4f6;
+}
+
+/* ---------- Section headings (Cayman makes these green by default) ---------- */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #4a5866;
+}
+
+/* ---------- Links ---------- */
+.main-content a {
+  color: #3d6a96;
+}
