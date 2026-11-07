@@ -28,3 +28,27 @@ body {
 .main-content a {
   color: #3d6a96;
 }
+
+/* ---------- Bolder headings so sections stand out ---------- */
+.main-content h2,
+.main-content h3 {
+  font-weight: 700;
+}
+
+/* ---------- Project titles: bold, darker, with an accent bar ---------- */
+.main-content h4 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #2f3a45;
+  border-left: 5px solid #7d93a8;
+  padding-left: 0.75rem;
+  margin-top: 0;
+}
+
+/* ---------- Stronger divider lines between projects ---------- */
+.main-content hr {
+  height: 2px;
+  border: 0;
+  background-color: #c5ced8;
+  margin: 2.5rem 0;
+}
