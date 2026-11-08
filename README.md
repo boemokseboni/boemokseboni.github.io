@@ -2,6 +2,8 @@
 
 **Bachelor of Science, Business Intelligence & Analytics; Machine Learning for Business Applications** - Saint Joseph's University (May 2025)
 
+---
+
 ## Projects
 
 ### Academic
