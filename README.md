@@ -6,6 +6,8 @@
 
 ## Projects
 
+---
+
 ### Academic
 
 #### Stock & Economic Data Analysis with quantmod
@@ -20,7 +22,7 @@ A walkthrough of the **quantmod** package, a financial modeling tool for R. The 
 
 **Tools:** R, quantmod, Yahoo Finance API, FRED
 
-📄 <a href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pdf" target="_blank" rel="noopener">Presentation (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/r-quantmod-presentation/Quantmod_Presentation_Code_Seboni.R" target="_blank" rel="noopener">R Code</a> · 🎥 <a href="r-quantmod-presentation/Quantmod_Demo_Seboni.mp4" target="_blank" rel="noopener">Demo Video</a> · 📊 <a href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pptx">Slides (PowerPoint)</a>
+<a class="project-link" href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pdf" target="_blank" rel="noopener">📄 Presentation (PDF)</a> <a class="project-link" href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/r-quantmod-presentation/Quantmod_Presentation_Code_Seboni.R" target="_blank" rel="noopener">💻 R Code</a> <a class="project-link" href="r-quantmod-presentation/Quantmod_Demo_Seboni.mp4" target="_blank" rel="noopener">🎥 Demo Video</a> <a class="project-link" href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pptx">📊 Slides (PowerPoint)</a>
 
 ---
 
@@ -36,7 +38,7 @@ Diamonds make up roughly 80% of Botswana's export earnings, and a weakening diam
 
 **Tools:** Python (pandas, scikit-learn, pdfplumber), SAS Viya, UN Comtrade API
 
-📄 <a href="botswana-export-diversification/Export_Diversification_Paper_Seboni.pdf" target="_blank" rel="noopener">Paper (PDF)</a> · 📊 <a href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pdf" target="_blank" rel="noopener">Presentation (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Export_Diversification_Pipeline_Seboni.ipynb" target="_blank" rel="noopener">Data & Modeling Pipeline</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Statistics_Botswana_Validation_Seboni.ipynb" target="_blank" rel="noopener">Forecast Validation</a> · 📊 <a href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pptx">Slides (PowerPoint)</a>
+<a class="project-link" href="botswana-export-diversification/Export_Diversification_Paper_Seboni.pdf" target="_blank" rel="noopener">📄 Paper (PDF)</a> <a class="project-link" href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pdf" target="_blank" rel="noopener">📊 Presentation (PDF)</a> <a class="project-link" href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Export_Diversification_Pipeline_Seboni.ipynb" target="_blank" rel="noopener">💻 Data & Modeling Pipeline</a> <a class="project-link" href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Statistics_Botswana_Validation_Seboni.ipynb" target="_blank" rel="noopener">💻 Forecast Validation</a> <a class="project-link" href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pptx">📊 Slides (PowerPoint)</a>
 
 *Code developed with AI assistance.*
 
@@ -54,10 +56,11 @@ Is a diamond's price really just carat, cut, color, and clarity? This project te
 
 **Tools:** Python (requests, pandas), JMP
 
-📄 <a href="diamond-pricing-analysis/Diamond_Pricing_Report_Seboni.pdf" target="_blank" rel="noopener">Report (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/diamond-pricing-analysis/Diamond_Data_Collection_Seboni.ipynb" target="_blank" rel="noopener">Data Collection Notebook</a>
+<a class="project-link" href="diamond-pricing-analysis/Diamond_Pricing_Report_Seboni.pdf" target="_blank" rel="noopener">📄 Report (PDF)</a> <a class="project-link" href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/diamond-pricing-analysis/Diamond_Data_Collection_Seboni.ipynb" target="_blank" rel="noopener">💻 Data Collection Notebook</a>
 
 *Code developed with AI assistance.*
 
-### Personal
+---
 
+### Personal
 (coming soon)
