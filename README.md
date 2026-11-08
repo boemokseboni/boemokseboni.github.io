@@ -57,3 +57,7 @@ Is a diamond's price really just carat, cut, color, and clarity? This project te
 📄 <a href="diamond-pricing-analysis/Diamond_Pricing_Report_Seboni.pdf" target="_blank" rel="noopener">Report (PDF)</a> · 💻 <a href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/diamond-pricing-analysis/Diamond_Data_Collection_Seboni.ipynb" target="_blank" rel="noopener">Data Collection Notebook</a>
 
 *Code developed with AI assistance.*
+
+### Personal 
+
+(coming soon)
