@@ -81,3 +81,22 @@ body {
 .main-content h3 {
   margin-top: 2.5rem;
 }
+
+/* ---------- Deliverable links as buttons ---------- */
+.main-content a.project-link {
+  display: inline-block;
+  padding: 0.35rem 0.9rem;
+  margin: 0.25rem 0.4rem 0.25rem 0;
+  border: 1.5px solid #7d93a8;
+  border-radius: 999px;
+  background-color: #ffffff;
+  color: #3d6a96;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.main-content a.project-link:hover {
+  background-color: #4a5866;
+  border-color: #4a5866;
+  color: #ffffff;
+}
