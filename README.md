@@ -61,6 +61,7 @@ Is a diamond's price really just carat, cut, color, and clarity? This project te
 *Code developed with AI assistance.*
 
 ---
-
+<!--
 ### Personal
 (coming soon)
+-->
