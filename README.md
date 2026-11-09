@@ -1,6 +1,6 @@
 <!-- ABOUT SECTION GOES HERE (tomorrow) -->
 
-<a class="contact-link" href="https://www.linkedin.com/in/boemoseboni/" target="_blank" rel="noopener">LinkedIn</a> <a class="contact-link" href="mailto:boemokseboni@gmail.com">Email</a> <a class="contact-link" href="https://github.com/boemokseboni" target="_blank" rel="noopener">GitHub</a>
+<a class="contact-link" href="https://www.linkedin.com/in/boemoseboni/" target="_blank" rel="noopener">LinkedIn</a> <a class="contact-link" href="mailto:boemokseboni@gmail.com">Email</a> <a class="contact-link" href="https://github.com/boemokseboni" target="_blank" rel="noopener">GitHub</a> <a class="contact-link" href="https://public.tableau.com/app/profile/boemo.seboni/vizzes" target="_blank" rel="noopener">Tableau Public</a>
 <!-- <a class="contact-link" href="Boemo_Seboni_Resume.pdf" target="_blank" rel="noopener">Resume (PDF)</a> -->
 
 ---
