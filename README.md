@@ -102,6 +102,8 @@ Diamonds make up roughly 80% of Botswana's export earnings, and a weakening diam
 
 #### Beyond the 4Cs: Provenance, Production Method & Diamond Pricing
 
+<img class="project-img" src="assets/images/diamond_price_gap.png" alt="Natural vs lab-grown diamond prices by carat">
+
 Is a diamond's price really just carat, cut, color, and clarity? This project tests whether a diamond's country of origin and production method (natural vs. lab-grown) still affect price once its physical quality is accounted for, a question with real consequences for diamond-dependent economies like Botswana.
 
 - Collected 187,579 diamond listings (94,448 natural, 93,131 lab-grown) across 26 variables using Python
