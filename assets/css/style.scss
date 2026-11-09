@@ -76,6 +76,8 @@ body {
 
 .page-header .project-tagline {
   font-size: 1.5rem;
+  color: #ffffff;
+  opacity: 1;
 }
 
 .main-content h3 {
@@ -118,4 +120,48 @@ body {
   background-color: #7d93a8;
   border-color: #7d93a8;
   color: #ffffff;
+}
+
+/* ---------- Footer: replace GitHub Pages credit ---------- */
+.site-footer-credits {
+  display: none;
+}
+
+.site-footer::after {
+  content: "© 2026 Boemo Seboni";
+  color: #7d8a97;
+}
+
+/* ---------- Skills grid with tags ---------- */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem 2.5rem;
+  margin-top: 1rem;
+}
+
+@media (max-width: 640px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.skill-group .skill-label {
+  margin: 0 0 0.5rem;
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: #2f3a45;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.skill-group .chip {
+  display: inline-block;
+  padding: 0.2rem 0.7rem;
+  margin: 0 0.35rem 0.45rem 0;
+  border-radius: 999px;
+  background-color: #e3e8ee;
+  color: #3a4654;
+  font-size: 0.85rem;
+  line-height: 1.6;
 }
