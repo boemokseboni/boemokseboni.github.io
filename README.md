@@ -16,9 +16,15 @@
 ## Skills
 
 **Programming & Analysis:** Python · R · SQL · SAS · JMP · Alteryx  
-**Visualization & Reporting:** Tableau · Power BI · Excel ·  
-**Data & Tools:** Snowflake · Oracle · AWS · MS Access · Git  
-**Methods:** Predictive Modeling · Time Series Analysis · Statistical Analysis · Exploratory Data Analysis · KPI Reporting
+**Python Libraries:** pandas · NumPy · scikit-learn · statsmodels · SciPy · TensorFlow/Keras · BeautifulSoup · Matplotlib  
+**R Packages:** ggplot2 · dplyr · quantmod · car · emmeans · readxl · patchwork  
+**Data Platforms & Environments:** Snowflake · Git & GitHub · Jupyter · VS Code · PyCharm · Spyder · RStudio  
+**Visualization & Reporting:** Tableau · Power BI · Excel · PowerPoint  
+**Statistics:** Hypothesis Testing · ANOVA & Post-Hoc Comparisons · Assumption Testing · Linear & Logistic Regression · Regression Diagnostics · PCA & Factor Analysis  
+**Machine Learning:** Decision Trees · Random Forest · Gradient Boosting · Neural Networks · SVM · LASSO · Clustering · Model Validation  
+**Forecasting:** Time Series Forecasting · Exponential Smoothing · Walk-Forward Backtesting · Out-of-Sample Validation  
+**Data Engineering:** API Data Collection · Web Scraping · PDF & OCR Data Extraction · SEC Financial Data (EDGAR, XBRL) · Data Validation & Reconciliation · ETL  
+**Business Analysis:** Financial Statement Analysis · Competitive Benchmarking · KPI Scorecards · Strategic Frameworks (PESTLE, SWOT, VRIO)
 
 ---
 
