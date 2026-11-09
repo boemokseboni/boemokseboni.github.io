@@ -69,7 +69,6 @@
 ### Academic
 
 #### Stock & Economic Data Analysis with quantmod
-*DSS 665 – R Statistical Programming | Fall 2026*
 
 A walkthrough of the **quantmod** package, a financial modeling tool for R. The project pulls live data from Yahoo Finance and the Federal Reserve (FRED), then explores and visualizes it:
 
@@ -85,7 +84,6 @@ A walkthrough of the **quantmod** package, a financial modeling tool for R. The 
 ---
 
 #### Forecasting Botswana's Export Diversification Opportunities
-*DSS 680 – Predictive Analytics | Summer 2026*
 
 Diamonds make up roughly 80% of Botswana's export earnings, and a weakening diamond market has exposed how little the economy is diversified. This project asks which non-diamond export categories show the strongest potential for growth, and how reliably predictive models can identify them.
 
@@ -103,7 +101,6 @@ Diamonds make up roughly 80% of Botswana's export earnings, and a weakening diam
 ---
 
 #### Beyond the 4Cs: Provenance, Production Method & Diamond Pricing
-*DSS 660 – Data Mining | Summer 2026*
 
 Is a diamond's price really just carat, cut, color, and clarity? This project tests whether a diamond's country of origin and production method (natural vs. lab-grown) still affect price once its physical quality is accounted for, a question with real consequences for diamond-dependent economies like Botswana.
 
@@ -118,8 +115,9 @@ Is a diamond's price really just carat, cut, color, and clarity? This project te
 
 *Code developed with AI assistance.*
 
----
 <!--
+---
+
 ### Personal
 (coming soon)
 -->
