@@ -30,7 +30,7 @@
 
 ## Projects
 
----
+--
 
 ### Academic
 
