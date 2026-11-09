@@ -15,16 +15,49 @@
 
 ## Skills
 
-**Programming & Analysis:** Python · R · SQL · SAS · JMP · Alteryx  
-**Python Libraries:** pandas · NumPy · scikit-learn · statsmodels · SciPy · TensorFlow/Keras · BeautifulSoup · Matplotlib  
-**R Packages:** ggplot2 · dplyr · quantmod · car · emmeans · readxl · patchwork  
-**Data Platforms & Environments:** Snowflake · Git & GitHub · Jupyter · VS Code · PyCharm · Spyder · RStudio  
-**Visualization & Reporting:** Tableau · Power BI · Excel · PowerPoint  
-**Statistics:** Hypothesis Testing · ANOVA & Post-Hoc Comparisons · Assumption Testing · Linear & Logistic Regression · Regression Diagnostics · PCA & Factor Analysis  
-**Machine Learning:** Decision Trees · Random Forest · Gradient Boosting · Neural Networks · SVM · LASSO · Clustering · Model Validation  
-**Forecasting:** Time Series Forecasting · Exponential Smoothing · Walk-Forward Backtesting · Out-of-Sample Validation  
-**Data Engineering:** API Data Collection · Web Scraping · PDF & OCR Data Extraction · SEC Financial Data (EDGAR, XBRL) · Data Validation & Reconciliation · ETL  
-**Business Analysis:** Financial Statement Analysis · Competitive Benchmarking · KPI Scorecards · Strategic Frameworks (PESTLE, SWOT, VRIO)
+<div class="skills-grid">
+
+<div class="skill-group">
+<p class="skill-label">Languages & Tools</p>
+<span class="chip">Python</span><span class="chip">R</span><span class="chip">SQL</span><span class="chip">SAS</span><span class="chip">JMP</span><span class="chip">Alteryx</span><span class="chip">Snowflake</span><span class="chip">Git & GitHub</span>
+</div>
+
+<div class="skill-group">
+<p class="skill-label">Visualization & Reporting</p>
+<span class="chip">Tableau</span><span class="chip">Power BI</span><span class="chip">Excel</span><span class="chip">PowerPoint</span>
+</div>
+
+<div class="skill-group">
+<p class="skill-label">Libraries & Packages</p>
+<span class="chip">pandas</span><span class="chip">NumPy</span><span class="chip">scikit-learn</span><span class="chip">statsmodels</span><span class="chip">SciPy</span><span class="chip">TensorFlow/Keras</span><span class="chip">Matplotlib</span><span class="chip">BeautifulSoup</span><span class="chip">dplyr</span><span class="chip">ggplot2</span><span class="chip">quantmod</span><span class="chip">car</span><span class="chip">emmeans</span>
+</div>
+
+<div class="skill-group">
+<p class="skill-label">Statistics & Machine Learning</p>
+<span class="chip">Hypothesis Testing</span><span class="chip">ANOVA</span><span class="chip">Linear & Logistic Regression</span><span class="chip">Regression Diagnostics</span><span class="chip">PCA</span><span class="chip">Decision Trees</span><span class="chip">Random Forest</span><span class="chip">Gradient Boosting</span><span class="chip">Neural Networks</span><span class="chip">SVM</span><span class="chip">LASSO</span><span class="chip">Clustering</span>
+</div>
+
+<div class="skill-group">
+<p class="skill-label">Forecasting & Validation</p>
+<span class="chip">Time Series Forecasting</span><span class="chip">Exponential Smoothing</span><span class="chip">Walk-Forward Backtesting</span><span class="chip">Out-of-Sample Validation</span>
+</div>
+
+<div class="skill-group">
+<p class="skill-label">Data Engineering</p>
+<span class="chip">API Data Collection</span><span class="chip">Web Scraping</span><span class="chip">PDF & OCR Extraction</span><span class="chip">SEC EDGAR / XBRL</span><span class="chip">Data Validation</span><span class="chip">ETL</span>
+</div>
+
+<div class="skill-group">
+<p class="skill-label">Business Analysis</p>
+<span class="chip">Financial Statement Analysis</span><span class="chip">Competitive Benchmarking</span><span class="chip">KPI Scorecards</span><span class="chip">PESTLE · SWOT · VRIO</span>
+</div>
+
+<div class="skill-group">
+<p class="skill-label">Environments</p>
+<span class="chip">Jupyter</span><span class="chip">VS Code</span><span class="chip">PyCharm</span><span class="chip">Spyder</span><span class="chip">RStudio</span>
+</div>
+
+</div>
 
 ---
 
