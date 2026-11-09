@@ -100,3 +100,22 @@ body {
   border-color: #4a5866;
   color: #ffffff;
 }
+
+/* ---------- Contact buttons (filled, to stand out) ---------- */
+.main-content a.contact-link {
+  display: inline-block;
+  padding: 0.45rem 1.1rem;
+  margin: 0.25rem 0.4rem 0.25rem 0;
+  border: 1.5px solid #4a5866;
+  border-radius: 999px;
+  background-color: #4a5866;
+  color: #ffffff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.main-content a.contact-link:hover {
+  background-color: #7d93a8;
+  border-color: #7d93a8;
+  color: #ffffff;
+}
