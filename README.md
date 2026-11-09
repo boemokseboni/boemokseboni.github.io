@@ -1,6 +1,24 @@
+<!-- ABOUT SECTION GOES HERE (tomorrow) -->
+
+<a class="contact-link" href="https://www.linkedin.com/in/boemoseboni/" target="_blank" rel="noopener">LinkedIn</a> <a class="contact-link" href="mailto:boemokseboni@gmail.com">Email</a> <a class="contact-link" href="https://github.com/boemokseboni" target="_blank" rel="noopener">GitHub</a>
+<!-- <a class="contact-link" href="Boemo_Seboni_Resume.pdf" target="_blank" rel="noopener">Resume (PDF)</a> -->
+
+---
+
+## Education
+
 **Master of Science, Business Intelligence & Analytics** - Saint Joseph's University (Expected May 2027)
 
 **Bachelor of Science, Business Intelligence & Analytics; Machine Learning for Business Applications** - Saint Joseph's University (May 2025)
+
+---
+
+## Skills
+
+**Programming & Analysis:** Python · R · SQL · SAS · JMP · Alteryx  
+**Visualization & Reporting:** Tableau · Power BI · Excel ·  
+**Data & Tools:** Snowflake · Oracle · AWS · MS Access · Git  
+**Methods:** Predictive Modeling · Time Series Analysis · Statistical Analysis · Exploratory Data Analysis · KPI Reporting
 
 ---
 
