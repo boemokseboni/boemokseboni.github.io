@@ -103,15 +103,15 @@ body {
   color: #ffffff;
 }
 
-/* ---------- Contact buttons (filled, to stand out) ---------- */
+/* ---------- Contact buttons ---------- */
 .main-content a.contact-link {
   display: inline-block;
   padding: 0.45rem 1.1rem;
-  margin: 0.25rem 0.4rem 0.25rem 0;
-  border: 1.5px solid #4a5866;
+  margin: 0.25rem 0.2rem;
+  border: 1.5px solid #c5ced8;
   border-radius: 999px;
-  background-color: #4a5866;
-  color: #ffffff;
+  background-color: #dde4eb;
+  color: #2f3a45;
   font-weight: 700;
   text-decoration: none;
 }
@@ -120,6 +120,10 @@ body {
   background-color: #7d93a8;
   border-color: #7d93a8;
   color: #ffffff;
+}
+
+.contact-row {
+  text-align: center;
 }
 
 /* ---------- Footer: replace GitHub Pages credit ---------- */
