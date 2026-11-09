@@ -171,9 +171,33 @@ body {
   line-height: 1.6;
 }
 
+/* ---------- Project images ---------- */
 .main-content img.project-img {
-  width: 100%;
+  float: right;
+  width: 40%;
+  max-width: 340px;
+  margin: 0.3rem 0 1rem 1.5rem;
   border: 1px solid #dde4eb;
   border-radius: 8px;
-  margin: 0.5rem 0 1rem;
+  box-shadow: 0 1px 3px rgba(47, 58, 69, 0.12);
+}
+
+.main-content img.project-img:hover {
+  border-color: #7d93a8;
+}
+
+/* keep the next project from wrapping around the image */
+.main-content h4,
+.main-content hr {
+  clear: both;
+}
+
+/* phones: full width under the title */
+@media (max-width: 640px) {
+  .main-content img.project-img {
+    float: none;
+    width: 100%;
+    max-width: none;
+    margin: 0.5rem 0 1rem;
+  }
 }
