@@ -9,7 +9,7 @@
 
 I'm an analyst completing a Master of Science in Business Intelligence & Analytics at Saint Joseph's University (May 2027), where I also earned my bachelor's degree in Business Intelligence & Analytics and Machine Learning for Business Applications. 
 
-I was born and raised in Botswana, attended high school in South Africa, volunteered in the United Kingdom, and came to the United States for higher education. Finding my footing in such different environments made me adaptable by necessity, curious by habit, and taught me to collaborate effectively with people from all backgrounds.
+I was born and raised in Botswana, attended high school in South Africa, volunteered in the United Kingdom, and came to the United States for higher education. Finding my footing in such different environments made me adaptable by necessity and curious by habit, and taught me to collaborate effectively with people from all backgrounds.
 
 My work sits at the intersection of data and the fields I care most about: investment, finance, supply chain, and economics. I build analyses end to end, collecting and preparing raw data with Python, testing it with rigorous statistical and machine learning methods, and distilling the results into clear recommendations that decision-makers can act on.
 
@@ -70,23 +70,6 @@ Lately, I've been deepening my skills in open-source intelligence (OSINT). This 
 
 ### Academic
 
-#### Stock & Economic Data Analysis with quantmod
-
-<a class="lightbox-link" href="assets/images/quantmod_msft_2020.png"><img class="project-img" src="assets/images/quantmod_msft_2020.png" alt="Microsoft stock price in 2020 with 20- and 50-day moving averages"></a>
-
-A walkthrough of the **quantmod** package, a financial modeling tool for R. The project pulls live data from Yahoo Finance and the Federal Reserve (FRED), then explores and visualizes it:
-
-- Retrieved Microsoft (MSFT) stock prices and the U.S. unemployment rate (2016–2026) using `getSymbols()`
-- Explored closing and adjusted prices with summary statistics
-- Built candlestick and line charts, adding 20- and 50-day simple moving averages as technical indicators
-- Calculated yearly and monthly returns, including a month-by-month breakdown of 2020
-
-**Tools:** R, quantmod, Yahoo Finance API, FRED
-
-<a class="project-link" href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pdf" target="_blank" rel="noopener">📄 Presentation (PDF)</a> <a class="project-link" href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/r-quantmod-presentation/Quantmod_Presentation_Code_Seboni.R" target="_blank" rel="noopener">💻 R Code</a> <a class="project-link" href="r-quantmod-presentation/Quantmod_Demo_Seboni.mp4" target="_blank" rel="noopener">🎥 Demo Video</a> <a class="project-link" href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pptx">📊 Slides (PowerPoint)</a>
-
----
-
 #### Forecasting Botswana's Export Diversification Opportunities
 
 <a class="lightbox-link" href="assets/images/botswana_export_mix.png"><img class="project-img" src="assets/images/botswana_export_mix.png" alt="Botswana annual exports, diamonds vs. all other exports, 2000–2023"></a>
@@ -103,6 +86,23 @@ Diamonds make up roughly 80% of Botswana's export earnings, and a weakening diam
 <a class="project-link" href="botswana-export-diversification/Export_Diversification_Paper_Seboni.pdf" target="_blank" rel="noopener">📄 Paper (PDF)</a> <a class="project-link" href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pdf" target="_blank" rel="noopener">📊 Presentation (PDF)</a> <a class="project-link" href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Export_Diversification_Pipeline_Seboni.ipynb" target="_blank" rel="noopener">💻 Data & Modeling Pipeline</a> <a class="project-link" href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/botswana-export-diversification/Statistics_Botswana_Validation_Seboni.ipynb" target="_blank" rel="noopener">💻 Forecast Validation</a> <a class="project-link" href="botswana-export-diversification/Export_Diversification_Presentation_Seboni.pptx">📊 Slides (PowerPoint)</a>
 
 *Code developed with AI assistance.*
+
+---
+
+#### Stock & Economic Data Analysis with quantmod
+
+<a class="lightbox-link" href="assets/images/quantmod_msft_2020.png"><img class="project-img" src="assets/images/quantmod_msft_2020.png" alt="Microsoft stock price in 2020 with 20- and 50-day moving averages"></a>
+
+A walkthrough of the **quantmod** package, a financial modeling tool for R. The project pulls live data from Yahoo Finance and the Federal Reserve (FRED), then explores and visualizes it:
+
+- Retrieved Microsoft (MSFT) stock prices and the U.S. unemployment rate (2016–2026) using `getSymbols()`
+- Explored closing and adjusted prices with summary statistics
+- Built candlestick and line charts, adding 20- and 50-day simple moving averages as technical indicators
+- Calculated yearly and monthly returns, including a month-by-month breakdown of 2020
+
+**Tools:** R, quantmod, Yahoo Finance API, FRED
+
+<a class="project-link" href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pdf" target="_blank" rel="noopener">📄 Presentation (PDF)</a> <a class="project-link" href="https://github.com/boemokseboni/boemokseboni.github.io/blob/main/r-quantmod-presentation/Quantmod_Presentation_Code_Seboni.R" target="_blank" rel="noopener">💻 R Code</a> <a class="project-link" href="r-quantmod-presentation/Quantmod_Demo_Seboni.mp4" target="_blank" rel="noopener">🎥 Demo Video</a> <a class="project-link" href="r-quantmod-presentation/Quantmod_Presentation_Seboni.pptx">📊 Slides (PowerPoint)</a>
 
 ---
 
