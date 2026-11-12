@@ -1,3 +1,6 @@
 title: Boemo Seboni
 description: "Data Analytics Portfolio"
 theme: jekyll-theme-cayman
+
+titles_from_headings:
+  enabled: false
