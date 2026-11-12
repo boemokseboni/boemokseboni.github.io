@@ -1,3 +1,10 @@
+<div class="contact-row">
+<a class="contact-link" href="https://www.linkedin.com/in/boemoseboni/" target="_blank" rel="noopener">LinkedIn</a> <a class="contact-link" href="mailto:boemokseboni@gmail.com">Email</a> <a class="contact-link" href="https://github.com/boemokseboni" target="_blank" rel="noopener">GitHub</a> <a class="contact-link" href="https://public.tableau.com/app/profile/boemo.seboni/vizzes" target="_blank" rel="noopener">Tableau Public</a>
+<a class="contact-link" href="Boemo_Seboni_Resume.pdf" target="_blank" rel="noopener">Resume</a>
+</div>
+
+---
+
 ## About
 
 I'm an analyst completing a Master of Science in Business Intelligence & Analytics. I was born and raised in Botswana, attended high school in South Africa, volunteered in the United Kingdom, and came to the United States for higher education. Finding my footing in such different environments made me adaptable by necessity and curious by habit, and taught me to work comfortably with people from every kind of background.
@@ -5,11 +12,6 @@ I'm an analyst completing a Master of Science in Business Intelligence & Analyti
 My work sits at the intersection of data and the fields I care most about: investment, finance, supply chain, and economics. I build analyses end to end, collecting and preparing raw data with Python, testing it with rigorous statistical and machine learning methods, and distilling the results into clear recommendations that decision-makers can act on.
 
 Lately, I've been deepening my skills in open-source intelligence (OSINT). This site is a record of my work so far and a preview of what I intend to build next.
-
-<div class="contact-row">
-<a class="contact-link" href="https://www.linkedin.com/in/boemoseboni/" target="_blank" rel="noopener">LinkedIn</a> <a class="contact-link" href="mailto:boemokseboni@gmail.com">Email</a> <a class="contact-link" href="https://github.com/boemokseboni" target="_blank" rel="noopener">GitHub</a> <a class="contact-link" href="https://public.tableau.com/app/profile/boemo.seboni/vizzes" target="_blank" rel="noopener">Tableau Public</a>
-<a class="contact-link" href="Boemo_Seboni_Resume.pdf" target="_blank" rel="noopener">Resume</a>
-</div>
 
 ---
 
