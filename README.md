@@ -7,19 +7,13 @@
 
 ## About
 
-I'm an analyst completing a Master of Science in Business Intelligence & Analytics. I was born and raised in Botswana, attended high school in South Africa, volunteered in the United Kingdom, and came to the United States for higher education. Finding my footing in such different environments made me adaptable by necessity, curious by habit, and taught me to collaborate effectively with people from all backgrounds.
+I'm an analyst completing a Master of Science in Business Intelligence & Analytics at Saint Joseph's University (May 2027), where I also earned my bachelor's degree in Business Intelligence & Analytics and Machine Learning for Business Applications. 
+
+I was born and raised in Botswana, attended high school in South Africa, volunteered in the United Kingdom, and came to the United States for higher education. Finding my footing in such different environments made me adaptable by necessity, curious by habit, and taught me to collaborate effectively with people from all backgrounds.
 
 My work sits at the intersection of data and the fields I care most about: investment, finance, supply chain, and economics. I build analyses end to end, collecting and preparing raw data with Python, testing it with rigorous statistical and machine learning methods, and distilling the results into clear recommendations that decision-makers can act on.
 
 Lately, I've been deepening my skills in open-source intelligence (OSINT). This site is a record of my work so far and a preview of what I intend to build next.
-
----
-
-## Education
-
-**Master of Science, Business Intelligence & Analytics** - Saint Joseph's University (May 2027)
-
-**Bachelor of Science, Business Intelligence & Analytics; Machine Learning for Business Applications** - Saint Joseph's University (May 2025)
 
 ---
 
